@@ -30,3 +30,7 @@
 
  <p>첫째 줄에 연산을 하는 횟수의 최솟값을 출력한다.</p>
 
+
+# 나의 문제 풀이
+https://yeomylaoo.tistory.com/874
+https://yeomylaoo.tistory.com/874
