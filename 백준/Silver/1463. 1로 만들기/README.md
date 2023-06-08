@@ -32,5 +32,10 @@
 
 
 # 나의 문제 풀이
-https://yeomylaoo.tistory.com/874
-https://yeomylaoo.tistory.com/874
+https://yeomylaoo.tistory.com/874 <br>
+https://yeomylaoo.tistory.com/873
+
+# 잠깐 기록
+- 전형적인 dp 문제로 bottom - up / top down 방식 모두 사용 가능하다.
+- 이때 중요한 점은 base case를 어디에 두고 점화식을 어떻게 사용할지이다. 
+- base case가 제약 조건에 부합하지 않는 범위를 접근하려 한다면 indexError 발생이 불가피하니 유의하자
